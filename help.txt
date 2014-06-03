@@ -1,0 +1,12 @@
+******************************************
+** c: Connect to microcontroller
+** d: Display all memory
+** e: Execute from current PC
+** g: Execute from a specific location
+** h: Display help
+** l: Look at memory
+** m: Modify memory
+** r: Reset microcontroller
+** s: Display PC and register status
+** q: Quit
+******************************************
